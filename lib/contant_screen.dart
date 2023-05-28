@@ -73,7 +73,7 @@ class _contant_screenState extends State<contant_screen> {
           GestureDetector(
             onTap:  change,
             child:Container(
-              color: Color.fromARGB(255, 241, 241, 241),
+              color: Color.fromARGB(255, 248, 245, 245),
             ),
             ),
 
